@@ -80,29 +80,6 @@ color: #333;
 /* I'm comment */
 ```
 
-```markdown
-    4 space indention
-    makes full-width
-    standard code blocks
-
-```js
-document.innerHTML = "I'm js code";
-
-/* I'm comment */
-```
-
-```css
-.css {
-font-size: 25px;
-width: 100%;
-padding: 5px;
-height: 50%;
-color: #333;
-
-/* I'm comment */
-```
-```
-
 ---
 
 # List
