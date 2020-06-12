@@ -59,9 +59,17 @@ text `Inline Code` text
 
 # Code Blocks
 
+#### Note:
     4 space indention
     makes full-width
     standard code blocks
+	
+```markdown
+    4 space indention
+    makes full-width
+    standard code blocks
+```
+
 
 ```js
 document.innerHTML = "I'm js code";
@@ -76,6 +84,7 @@ width: 100%;
 padding: 5px;
 height: 50%;
 color: #333;
+}
 
 /* I'm comment */
 ```
@@ -87,6 +96,7 @@ color: #333;
 * List item one
 * List item two
     * A nested item
+
 
 ```markdown
 * List item one
