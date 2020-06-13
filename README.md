@@ -110,12 +110,10 @@ color: #333;
 
 1. Number list item one		
 2. Number list item two
-	2.1. A nested item
 3. Number list item three
 
 ```markdown
 1. Number list item one		
-	1.1. A nested item
 2. Number list item two
 3. Number list item three
 ```
