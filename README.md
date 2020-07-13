@@ -153,7 +153,7 @@ Standard link =  https://igorkowalczyk.github.io
 ![Image](https://github.com/fluidicon.png)
 
 ## Change Size
-You can use some HTML "img" tags in your Markdown:
+GFM (Github Flavored MarkDown) don't support change size of img but You can use some HTML "img" tags in your Markdown:
 									       
 ```html
 <img src="https://github.com/fluidicon.png" alt="Image" width="200" height="200"/>
