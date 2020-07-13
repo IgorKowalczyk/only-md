@@ -147,11 +147,19 @@ Standard link =  https://igorkowalczyk.github.io
 
 # Image
 
-![Image](https://igorkowalczyk.github.io/lib/favicon/favicon.jpg)
-
 ```markdown
-![Image](https://igorkowalczyk.github.io/lib/favicon/favicon.jpg)
+![Image](https://github.com/fluidicon.png)
 ```
+![Image](https://github.com/fluidicon.png)
+
+## Change Size
+You can use some HTML "img" tags in your Markdown:
+									       
+```html
+<img src="https://github.com/fluidicon.png" alt="Image" width="200" height="200"/>
+```
+
+<img src="https://github.com/fluidicon.png" alt="Image" width="200" height="200"/>
 
 ---
 
